@@ -1,0 +1,9 @@
+form {
+    width: 400px;
+    margin: 20px auto;
+}
+a{
+    color:darkgreen;
+    font-weight: bold;
+    text-decoration: none;
+}
